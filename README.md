@@ -4,9 +4,10 @@ Sử dụng Apache kafka để truyền tải lượng lớn dữ liệu về ch
 ## Usage:
 1. Cài đặt Apache Kafka và mongoDB:
    Kafka: [link](https://www.bing.com/search?q=apache+kafka+download&filters=dtbk:%22MCFvdmVydmlldyFjZ192NV9kb3dubG9hZCE2ODY2YzAxMy04YjY3LWQ1ZDItNmY4MC1kYTg4OTIzNDQxZDk%3d%22&FORM=DEPNAV)
+   
    MongoDB: [link](https://www.bing.com/search?q=mongodb+download&filters=dtbk:%22MCFvdmVydmlldyFjZ192NV9kb3dubG9hZCE3ZmI1MDZhYS1jMGRhLWExNDktOGY4NC1jMDA4MDMwOGFlMzA%3d%22&FORM=DEPNAV)
-2. Giải nén file kafka.rar và khởi động server.
-3. Run:
+3. Giải nén file kafka.rar và khởi động server.
+4. Run:
    ``` bash
    python streamlit run streamlit.py
    ```
